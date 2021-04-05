@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\bin\Debug\Ejercicio 02.exe.config
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\bin\Debug\Ejercicio 02.exe
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\bin\Debug\Ejercicio 02.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\obj\Debug\Ejercicio 02.exe
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\obj\Debug\Ejercicio 02.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio 02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache

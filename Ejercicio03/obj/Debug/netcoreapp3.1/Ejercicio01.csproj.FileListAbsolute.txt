@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.exe
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.deps.json
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.json
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.dll
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\bin\Debug\netcoreapp3.1\Ejercicio01.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfo.cs
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.dll
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Ejercicio03\obj\Debug\netcoreapp3.1\Ejercicio01.genruntimeconfig.cache

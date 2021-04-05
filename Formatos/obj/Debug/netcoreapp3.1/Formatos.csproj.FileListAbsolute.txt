@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.exe
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.deps.json
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.runtimeconfig.json
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.dll
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\bin\Debug\netcoreapp3.1\Formatos.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.dll
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Formatos\obj\Debug\netcoreapp3.1\Formatos.genruntimeconfig.cache

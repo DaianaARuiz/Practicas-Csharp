@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.exe
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.deps.json
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.runtimeconfig.json
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.dll
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\bin\Release\netcoreapp3.1\Clase02_EjercicioSello.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.AssemblyInfo.cs
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.dll
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.pdb
+C:\Users\usuario\source\repos\RuizDaiana\Clase02_EjercicioSello\obj\Release\netcoreapp3.1\Clase02_EjercicioSello.genruntimeconfig.cache
